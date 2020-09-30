@@ -7,5 +7,5 @@ Add your name and Github URL under the Contributors section.
 Create a pull request. 
 Done!
 Example
-- [Imaapreet Kaur](https://github.com/jimmyconway)
+- [Imaapreet Kaur](https://github.com/Imaanpreet)
 Note: If you're still having trouble, follow this simple guide step-by-step.
